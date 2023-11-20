@@ -1,3 +1,3 @@
-FROM k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v20220916-gd32f8c343
+FROM k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v20230407
 
 LABEL MAITAINER="dingyong"
